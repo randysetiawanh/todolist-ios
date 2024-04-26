@@ -17,7 +17,6 @@ struct ToDoListView: View {
     
     init(userId: String) {
 //        self.userId = userId
-        
         self._items = FirestoreQuery(collectionPath: "users/\(userId)/todos")
         
         self._viewModel = StateObject(

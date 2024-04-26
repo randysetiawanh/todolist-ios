@@ -28,28 +28,28 @@ class MainViewModel: ObservableObject {
     }
     
     private func checkUserExists() {
-            guard let currentUser = Auth.auth().currentUser else {
-                return
-            }
-            
-            let db = Firestore.firestore()
-            
-            // Query to check if user exists in Firestore
-            db.collection("users").document(currentUser.uid).getDocument { [weak self] (document, error) in
-                if let document = document, document.exists {
-                    // User exists in Firestore
-                    print("User exists")
-                } else {
-                    // User does not exist in Firestore
-                    print("User does not exist, logging out...")
-                    do {
-                        try Auth.auth().signOut()
-                    } catch let signOutError as NSError {
-                        print("Error signing out: %@", signOutError)
-                    }
-                    // Clear currentUserId
-                    self?.currentUserId = ""
+        guard let currentUser = Auth.auth().currentUser else {
+            return
+        }
+        
+        let db = Firestore.firestore()
+        
+        // Query to check if user exists in Firestore
+        db.collection("users").document(currentUser.uid).getDocument { [weak self] (document, error) in
+            if let document = document, document.exists {
+                // User exists in Firestore
+                print("User exists")
+            } else {
+                // User does not exist in Firestore
+                print("User does not exist, logging out...")
+                do {
+                    try Auth.auth().signOut()
+                } catch let signOutError as NSError {
+                    print("Error signing out: %@", signOutError)
                 }
+                // Clear currentUserId
+                self?.currentUserId = ""
             }
         }
+    }
 }
