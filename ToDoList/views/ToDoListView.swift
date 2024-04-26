@@ -11,6 +11,7 @@ import SwiftUI
 struct ToDoListView: View {
     @StateObject var viewModel: ToDoListViewModel
     @FirestoreQuery var items: [ToDoListItemModel]
+    @State private var isShowingDialog = false
     
 //    private let userId: String
     
@@ -54,6 +55,6 @@ struct ToDoListView: View {
     }
 }
 
-#Preview {
-    ToDoListView(userId: "svaOIURIjGWMGkjKlO01LVp5FBr1")
-}
+//#Preview {
+//    ToDoListView(userId: "svaOIURIjGWMGkjKlO01LVp5FBr1")
+//}
