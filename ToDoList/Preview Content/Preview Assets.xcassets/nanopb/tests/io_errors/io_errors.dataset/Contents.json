@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "io_errors.c",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

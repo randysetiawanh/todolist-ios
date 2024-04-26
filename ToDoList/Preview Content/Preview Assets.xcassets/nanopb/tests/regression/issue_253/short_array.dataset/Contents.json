@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "short_array.c",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

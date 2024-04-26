@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "malloc_wrappers_syshdr.h",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

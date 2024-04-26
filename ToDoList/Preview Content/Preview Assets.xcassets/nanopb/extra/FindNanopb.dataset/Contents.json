@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "FindNanopb.cmake",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

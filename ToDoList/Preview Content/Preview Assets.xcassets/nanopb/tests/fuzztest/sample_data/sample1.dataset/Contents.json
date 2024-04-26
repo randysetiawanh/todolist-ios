@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "sample1.pb",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

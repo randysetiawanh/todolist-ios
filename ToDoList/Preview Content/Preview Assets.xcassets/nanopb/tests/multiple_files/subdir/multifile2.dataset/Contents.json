@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "multifile2.proto",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "mem_release.proto",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

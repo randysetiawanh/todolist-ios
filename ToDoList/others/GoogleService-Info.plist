@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBbzoO60qHfw6Ti6LetaqbmlPjpALQTQHY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>128543377342</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>id.rencores.ToDoList</string>
+	<key>PROJECT_ID</key>
+	<string>rencores-todolist</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rencores-todolist.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:128543377342:ios:b8e28fefccb4150457dbef</string>
+</dict>
+</plist>

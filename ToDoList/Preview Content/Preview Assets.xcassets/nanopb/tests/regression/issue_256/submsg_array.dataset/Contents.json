@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "submsg_array.proto",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

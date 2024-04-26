@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "callback_pointer.proto",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

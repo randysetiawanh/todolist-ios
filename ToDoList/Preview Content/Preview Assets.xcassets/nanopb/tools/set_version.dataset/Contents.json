@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "set_version.sh",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

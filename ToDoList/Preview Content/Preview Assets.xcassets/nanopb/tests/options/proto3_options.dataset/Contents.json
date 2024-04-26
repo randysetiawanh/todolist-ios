@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "proto3_options.proto",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

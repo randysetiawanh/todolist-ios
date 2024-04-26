@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "defaults.c",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

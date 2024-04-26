@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "spm.yml",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "extensionbug.expected",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

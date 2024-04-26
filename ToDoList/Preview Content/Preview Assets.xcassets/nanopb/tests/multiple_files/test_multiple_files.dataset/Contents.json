@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "test_multiple_files.c",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

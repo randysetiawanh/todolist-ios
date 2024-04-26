@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "nanopb-config-version.cmake.in",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

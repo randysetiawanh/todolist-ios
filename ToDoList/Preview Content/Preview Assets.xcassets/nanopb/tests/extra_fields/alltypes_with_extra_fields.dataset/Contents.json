@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "alltypes_with_extra_fields.pb",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

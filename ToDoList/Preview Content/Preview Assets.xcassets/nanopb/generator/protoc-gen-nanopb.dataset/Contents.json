@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "protoc-gen-nanopb",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

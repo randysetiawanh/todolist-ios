@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "file2.proto",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

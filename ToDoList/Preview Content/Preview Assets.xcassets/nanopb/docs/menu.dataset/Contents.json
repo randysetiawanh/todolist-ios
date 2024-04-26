@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "menu.rst",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

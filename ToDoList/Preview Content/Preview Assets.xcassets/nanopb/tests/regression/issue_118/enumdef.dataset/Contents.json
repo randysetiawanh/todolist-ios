@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "enumdef.proto",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

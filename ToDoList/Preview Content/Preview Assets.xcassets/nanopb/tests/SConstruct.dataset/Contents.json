@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "SConstruct",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

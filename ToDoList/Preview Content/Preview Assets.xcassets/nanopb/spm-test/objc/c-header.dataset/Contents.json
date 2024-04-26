@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "c-header.c",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

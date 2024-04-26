@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "nanopb.mk",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
